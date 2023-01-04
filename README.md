@@ -107,7 +107,7 @@ To run tests, run the following command
 
 ` docker rm  express-node-app-container -f ` to remove container
 
-` docker-cmposer up -d ` to build container
+` docker-compose up -d ` to build container
 
 ` docker -help ` to build container
 
